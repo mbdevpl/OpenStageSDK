@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="." destdir="../doc" doctitle="OpenStageSDK" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" overview="D:\Projects\Eclipse OpenStage\OpenStageSDK\res\overview.html" packagenames="pl.mbdev.openstage.push,pl.mbdev.openstage.test,pl.mbdev.openstage" source="1.6" sourcepath="../src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>

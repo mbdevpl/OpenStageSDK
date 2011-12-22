@@ -27,3 +27,5 @@ http://wiki.siemens-enterprise.com/wiki/File:SDK_Environment_OpenStage_60_80_SIP
 
 ### See also:
 
+http://wiki.siemens-enterprise.com/wiki/OpenStage_SIP
+http://wiki.siemens-enterprise.com/wiki/OpenStage_XML_Applications
